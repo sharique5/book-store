@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://sharique:root@cluster0.8gh1b.mongodb.net/bookStoreDatabase?retryWrites=true&w=majority"
+}

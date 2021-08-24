@@ -1,0 +1,31 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "MERN app to manage a book store",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "app": "nodemon index.js",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharique5/book-store.git"
+  },
+  "author": "Sharique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharique5/book-store/issues"
+  },
+  "homepage": "https://github.com/sharique5/book-store#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
